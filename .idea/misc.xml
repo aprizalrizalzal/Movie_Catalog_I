@@ -29,8 +29,9 @@
         <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/drawable/ic_baseline_favorite.xml" value="0.12604166666666666" />
         <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/drawable/ic_baseline_loading.xml" value="0.12604166666666666" />
         <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/drawable/ic_baseline_no_photography.xml" value="0.240625" />
+        <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/drawable/ic_baseline_open_in_new.xml" value="0.240625" />
         <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/layout/activity_detail_list.xml" value="0.22447916666666667" />
-        <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/layout/activity_main_home.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/layout/activity_main_home.xml" value="0.22" />
         <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/layout/activity_splash_screen.xml" value="0.10989583333333333" />
         <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/layout/items_detail_movie_or_tv_show.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/apriz/StudioProjects/MovieCatalog_I/app/src/main/res/layout/items_list_movie_or_tv_show.xml" value="0.22447916666666667" />
